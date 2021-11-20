@@ -20,6 +20,7 @@ Here the first step is to understand the data, the features and the domain. Then
 ## Data
 
 Link to the details of the data: 
+https://github.com/GitTInto/Unsupervised-Clustering_Customer-Segmentation/blob/main/marketing_campaign.csv
 https://www.kaggle.com/imakash3011/customer-personality-analysis
 
 ## Full Project Code

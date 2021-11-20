@@ -25,3 +25,4 @@ https://www.kaggle.com/imakash3011/customer-personality-analysis
 ## Full Project Code
 
 Pelase refer to the notebook for full project code.
+https://github.com/GitTInto/Unsupervised-Clustering_Customer-Segmentation/blob/main/Unsupervised_Clustering_Customer_segmentation.ipynb
